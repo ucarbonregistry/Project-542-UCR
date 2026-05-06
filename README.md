@@ -78,3 +78,58 @@ Actual electricity generation is 631,307 MWh and total GHG emission reduction is
 with the average plant load factor of 21.64%. This annual average net electricity generation and
 annual average GHG emission reductions are with application of degradation factor of 0.5% from
 second year.
+_________
+ISSUANCE DATE: 06/05/2026
+
+MP-01: 02/11/2017-31/12/2024
+
+QTY: 554625
+________
+Serial Number: 0001-000001-005584-UCR-CoU-IN-542-02112017-31122017
+
+Vintage Year: 2017
+
+Quantity: 5584
+____________
+Serial Number: 0001-005585-092480-UCR-CoU-IN-542-01012018-31122018
+
+Vintage Year: 2018
+
+Quantity: 86896
+___________
+Serial Number: 0001-092481-180585-UCR-CoU-IN-542-01012019-31122019
+
+Vintage Year: 2019
+
+Quantity: 88105
+__________
+Serial Number: 0001-180586-250828-UCR-CoU-IN-542-01012020-31122020
+
+Vintage Year: 2020
+
+Quantity: 70243
+____________
+Serial Number: 0001-250829-316752-UCR-CoU-IN-542-01012021-31122021
+
+Vintage Year: 2021
+
+Quantity: 65924
+__________
+Serial Number: 0001-316753-400412-UCR-CoU-IN-542-01012022-31122022
+
+Vintage Year: 2022
+
+Quantity: 83660
+___________
+Serial Number: 0001-400413-482887-UCR-CoU-IN-542-01012023-31122023
+
+Vintage Year: 2023
+
+Quantity: 82475
+_____________
+Serial Number: 0001-482888-554624-UCR-CoU-IN-542-01012024-31122024
+
+Vintage Year: 2024
+
+Quantity: 71737
+_________
